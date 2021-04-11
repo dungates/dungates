@@ -1,6 +1,6 @@
-### Hi, I'm Duncan! 👋
 
 <div align="center">
+### Hi, I'm Duncan! 👋
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://duncangates.me"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
