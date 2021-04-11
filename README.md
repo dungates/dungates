@@ -1,6 +1,9 @@
 
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Hi, I'm Duncan! :wave:&nbsp;
+</h1>
+
 <div align="center">
-### Hi, I'm Duncan! 👋
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://duncangates.me"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
