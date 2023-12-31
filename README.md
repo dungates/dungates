@@ -15,6 +15,4 @@
   :sparkles: Data Science and Software Engineering :man_technologist:
 </h3>
 <br>
-
-![](https://pbs.twimg.com/media/Es8XWGlUwAIHvSV?format=jpg&name=small)
 </div>
